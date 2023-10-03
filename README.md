@@ -5,7 +5,7 @@
 * 📍  I'm based in North Lincolnshire, England
 * 📧  You can contact me at [rochellembradley@gmail.com](mailto:rochellembradley@gmail.com)
 * 🖥️  View my portfolio [here](https://rbrd87.github.io/Bootstrap-Portfolio/)
-* 🧠  I'm currently working my way through a front end web developer bootcamp
+* 🧠  Graduate of the Trilogy Skills Bootcamp in Front-End Web Development
 * 🤞  Hoping to learn more and more programming each day and put it into practice soon
 * 🧪  Test Engineer who is ISTQB qualified with 6+ years of experience
 * 🤝  I'm open to collaborating on interesting projects as a developer or designer
@@ -49,6 +49,4 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" width="32" height="32" /></a> 
     <a href="https://www.linkedin.com/in/rochellembradley/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="32" height="32" /></a>
-    <a href="https://twitter.com/rochellebradley" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="32" height="32" /></a>
 </p>
